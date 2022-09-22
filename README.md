@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/static/v1?label=Typescript&message=V4.6.4&color=purple&style=for-the-badge&logo=">
   <img src="https://img.shields.io/static/v1?label=Posphor React&message=V1.4.1&color=purple&style=for-the-badge&logo=">
   <img src="https://img.shields.io/static/v1?label=Axios&message=V0.27.2&color=purple&style=for-the-badge&logo=">
-  <img src="https://img.shields.io/static/v1?label=Radis UI&message=V1.0.0&color=purple&style=for-the-badge&logo=">
+  <img src="https://img.shields.io/static/v1?label=Radix UI&message=V1.0.0&color=purple&style=for-the-badge&logo=">
  </div>
 
 </div>
