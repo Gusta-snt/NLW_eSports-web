@@ -92,7 +92,7 @@
 <div id="author">
     <h2>Author</h2>
     <img src="https://i.ibb.co/zmSvf43/Gustavo.png" width="200px">
-    <p>Maded with love by Gusta ❤️. My social media:</p>
+    <p>Made with love by Gusta ❤️. My social media:</p>
     <a href="https://www.instagram.com/gustavo_santosfr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/gustavo-ferreira-dos-santos-a3b6b1231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://github.com/Gusta-snt" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
