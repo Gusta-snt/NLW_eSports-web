@@ -41,30 +41,22 @@
  
  <p>Clone this repo:</p>
  <p>
-  <code>
-   $ git clone &lt;https://github.com/Gusta-snt/NLW_eSports-web&gt;
-  </code>
+  <code>$ git clone &lt;https://github.com/Gusta-snt/NLW_eSports-web&gt;</code>
  </p>
  
  <p>Now, enter in the folder:</p>
  <p>
-  <code>
-   $ cd NLW-eSports-web
-  </code>
+  <code>$ cd NLW-eSports-web</code>
  </p>
  
  <p>Install the needed packages:</p>
  <p>
-  <code>
-   $ npm i
-  </code>
+  <code>$ npm i</code>
  </p>
  
  <p>Run the code:</p>
  <p>
-  <code>
-   $ npm run dev
-  </code>
+  <code>$ npm run dev</code>
  </p>
  
  <p>Disclaimer: This app needs a backend to work normaly. To clone the backend, please, visit the <a href="https://github.com/Gusta-snt/NLW_eSports-server">NLW_eSports-server</a> repo on my github.</p>
@@ -91,8 +83,6 @@
   
 <div id="author">
     <h2>Author</h2>
-    <img src="https://i.ibb.co/zmSvf43/Gustavo.png" width="200px">
-    <p>Made with love by Gusta ❤️. My social media:</p>
     <a href="https://www.instagram.com/gustavo_santosfr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/gustavo-ferreira-dos-santos-a3b6b1231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://github.com/Gusta-snt" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
